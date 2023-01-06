@@ -1,0 +1,45 @@
+/* Section Home */
+
+
+.solkutu {
+    width: 400px;
+    height: 600px;
+    background-color: ;
+
+}
+.sagkutu {
+    width: 400px;
+    height: 400px;
+    background-color: ;
+    margin-top: 5px;
+    padding-top: 65px;
+}
+
+.ss {
+    margin-top: 60px;
+}
+.solp {
+    font-size: 50px;
+}
+.p{
+    padding-top: 60px;
+   
+    
+}
+.p h2 {
+    font-size: 50px;
+    font-family: 'Bai Jamjuree', sans-serif;
+
+}
+.p h3 {
+   
+    font-family: 'Bai Jamjuree', sans-serif;
+
+}
+.p p{
+  
+    padding-top: 20px;
+}
+.p a {
+    margin-left: 150px;
+}
